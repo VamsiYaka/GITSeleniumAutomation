@@ -16,12 +16,7 @@ public class Menu {
 		System.out.println("test8");
 		System.out.println("test9");
 		
-<<<<<<< HEAD
-=======
-		System.out.println("test9");
-		
->>>>>>> master
-		System.out.println("test10");
+
 	}
 
 	
